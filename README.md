@@ -20,7 +20,7 @@ Here are some ideas to get you started:
          height="45"
          width="45" />, I'm Henil Panchal</h1>
 <h5 align="center">
-A 1st-year student pursuing Bachelors in Computer Science and Engineering, from Institute of Technology, Nirma University , Ahmedabad. I am a Machine Learning enthusiast, Web developer. 
+A 2nd-year student pursuing Bachelors in Computer Science and Engineering, from Institute of Technology, Nirma University , Ahmedabad. I am a Machine Learning enthusiast, Web developer. 
 </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henilp105&label=Profile%20views&color=0e75b6&style=flat" alt="henilp105" /> </p>
 <p>
