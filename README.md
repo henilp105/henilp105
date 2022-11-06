@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Flutter + MERN Stack
 - 👯 I’m looking to collaborate on Creative Projects
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/henil-panchal-9261b4228/) ,[Resume](https://drive.google.com/file/d/1SIvm0dRisEhO-MLw-Qn65wKpf9ecOpfL/view?usp=share_link) henilp105@gmail.com
+- 📫 How to reach me: [Resume](https://drive.google.com/file/d/1SIvm0dRisEhO-MLw-Qn65wKpf9ecOpfL/view?usp=share_link) ,[Linkedin](https://www.linkedin.com/in/henil-panchal-9261b4228/) , henilp105@gmail.com
 <!-- - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ...-->
 <!-- - 😄 Pronouns: ...
