@@ -5,8 +5,8 @@
 - 🔭 I’m currently working on Hackathons
 - 🌱 I’m currently learning Flutter + MERN Stack
 - 👯 I’m looking to collaborate on Creative Projects
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- 📫 How to reach me: [Resume](https://drive.google.com/file/d/1SIvm0dRisEhO-MLw-Qn65wKpf9ecOpfL/view?usp=share_link) ,[Linkedin](https://www.linkedin.com/in/henil-panchal-9261b4228/) , henilp105@gmail.com
+- 🥅 2023 Goals: Contribute more to Open Source projects
+- 📫 How to reach me: [Resume](https://drive.google.com/file/d/1SIvm0dRisEhO-MLw-Qn65wKpf9ecOpfL/view?usp=share_link) ,[Linkedin](https://www.linkedin.com/in/henilp105/) , henilp105@gmail.com
 <!-- - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ...-->
 <!-- - 😄 Pronouns: ...
@@ -27,18 +27,17 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Python" width="30px" src="https://i.imgur.com/gnK58k4.png">
+<!-- <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> -->
+<img align="left" alt="Seaborn" style="width: 7vw; min-width: 33px;" src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"> <img src="https://img.icons8.com/color/48/000000/css3.png">
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"> <img src="https://img.icons8.com/office/48/000000/react.png"> 
+<img src="https://img.icons8.com/color/48/000000/nextjs.png"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"> 
+<img src="https://img.icons8.com/color/48/000000/mongodb.png">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50">
 <img align="left" alt="Pandas" style="width: 7vw; min-width: 33px;" src="https://www.gstatic.com/devrel-devsite/prod/v24d520161c9661e427a3f6fa9973bfca56d0972dca82fa8ef65c709d915e80f3/tensorflow/images/lockup.svg">
-<img align="left" alt="Seaborn" style="width: 7vw; min-width: 33px;" src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg">
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Android" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">
-<img align="left" alt="Flutter" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
+<!-- <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">
+<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
+<img align="left" alt="Android" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"> -->
 
 
 <br/>
