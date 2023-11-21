@@ -1,50 +1,64 @@
-### Hi, Henil here 👋
+# Hi there, I'm Henil! 👋
+
+I'm Pre-final year student currently pursuing my B.Tech in Computer Science and Engineering at [Institute of Technology, Nirma University, Ahmedabad](https://www.nirmauni.ac.in).
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=henilp105&theme=radical)
+
+![Henil's GitHub stats](https://github-readme-stats.vercel.app/api?username=henilp105&count_private=true&show_icons=true&theme=radical)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henilp105/)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=appinventor.ai_keyuriksppanchal.webview&gl=US)
+
+- Check out my [resume](https://drive.google.com/file/d/1SIvm0dRisEhO-MLw-Qn65wKpf9ecOpfL/view?usp=share_link) for more details.
+- 📧 Email: henilp105@gmail.com
+- 📱 Phone: +91 9054853880
 
 
-- 👨🏻‍🎓 Currently persuing my B.Tech in CSE at Institute of Technology, Nirma University, Ahmedabad.
-- 🔭 I’m currently working on Hackathons
-- 🌱 I’m currently learning Flutter + MERN Stack
-- 👯 I’m looking to collaborate on Creative Projects
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- 📫 How to reach me: [Resume](https://drive.google.com/file/d/1SIvm0dRisEhO-MLw-Qn65wKpf9ecOpfL/view?usp=share_link) ,[Linkedin](https://www.linkedin.com/in/henilp105/) , henilp105@gmail.com
-<!-- - 🤔 I’m looking for help with ... 
-- 💬 Ask me about ...-->
-<!-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+### 🚀 Languages and Tools:
 
-
-
-### Connect with me:
-
-<a href="https://www.linkedin.com/in/henil-panchal-9261b4228/" target="_blank">
-  <img align="left" alt="Henil Panchal | Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="[https://play.google.com/store/apps/dev?id=6194928995061750437](https://play.google.com/store/apps/details?id=appinventor.ai_keyuriksppanchal.webview&gl=US)" target="_blank">
-  <img align="left" alt="Henil Panchal | Play Store" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
-</a>
-<br/>
-
-
-### Languages and Tools:
-
-<!-- <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> -->
-<img align="left" alt="Seaborn" style="width: 7vw; min-width: 33px;" src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"> <img src="https://img.icons8.com/color/48/000000/css3.png">
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"> <img src="https://img.icons8.com/office/48/000000/react.png"> 
+<!-- Add icons and links for the languages and tools you're familiar with -->
+<img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50"><img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50">
+<img src="https://www.tensorflow.org/images/tf_logo_horizontal.png" height="50">
 <img src="https://img.icons8.com/color/48/000000/nextjs.png"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"> 
 <img src="https://img.icons8.com/color/48/000000/mongodb.png">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50">
-<img align="left" alt="Pandas" style="width: 7vw; min-width: 33px;" src="https://www.gstatic.com/devrel-devsite/prod/v24d520161c9661e427a3f6fa9973bfca56d0972dca82fa8ef65c709d915e80f3/tensorflow/images/lockup.svg">
-<!-- <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">
-<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
-<img align="left" alt="Android" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"> -->
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"> <img src="https://img.icons8.com/color/48/000000/css3.png">
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"> <img src="https://img.icons8.com/office/48/000000/react.png"> 
 
 
-<br/>
-<br/><br/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=henilp105&count_private=true&show_icons=true&theme=tokyonight" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henilp105&layout=compact&theme=react" />
 
-![Henil's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=henilp105&theme=vision-friendly-dark)
+
+### 💼 Experience:
+
+#### Backend Developer @ Fortran Programming Language
+- **November 2022 - Present**
+  - Implemented a Python Flask-based package registry with 15+ REST API endpoints.
+  - Integrated Docker and MongoDB into the application.
+  - Developed custom security measures and administration tools.
+
+#### Student Developer @ Fortran Programming Language , Google Summer of Code '22
+- **May 2022 - September 2022**
+  - Overhauled Fortran-lang’s website by redesigning and porting site, reduced loading time by 30% and build time by 80% by migrating it to Sphinx.
+  - Led transition to Multilingual Website by implementing localisation using Sphinx Intl and Weblate in 10+ Languages.
+  - Revamped the Community Section of website and added Interactive graphs and GitHub Statistics.
+  - Developed a Python package to test 150+ Fortran snippets on the website.
+
+
+### 🚀 Projects:
+
+#### Polygon Network Testnet Faucet (REACT • PYTHON • MONGODB)
+- Developed a Faucet for Polygon’s Mumbai Testnet using React and Python Flask.
+- Built more than 7+ REST API’s using Flask Framework and Integrated Web3 for blockchain.
+- Handled about 100,000+ faucet transactions with 20,000+ testmatic disbursed to 9000+ Developers.
+
+<!-- Add more project entries as needed -->
+
+### 🏆 Achievements:
+
+- Awarded the prestigious INSPIRE Awards MANAK 2019 by the Department of Science and Technology, Government of India.
+- Awarded the Dan Kohn Scholarship for Kubecon + CloudNativeCon North America 2022.
+
+### Let's build something amazing! 🚀
+
+![](https://komarev.com/ghpvc/?username=henilp105&color=blueviolet)
