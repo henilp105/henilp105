@@ -8,10 +8,12 @@ I'm Pre-final year student currently pursuing my B.Tech in Computer Science and 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henilp105/)
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=appinventor.ai_keyuriksppanchal.webview&gl=US)
+<a href="https://leetcode.com/21cek078/">
+  <img alt="Henil's Leetcode" width="110px" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06s" />
+</a>
 
 - Check out my [resume](https://drive.google.com/file/d/1SIvm0dRisEhO-MLw-Qn65wKpf9ecOpfL/view?usp=share_link) for more details.
 - 📧 Email: henilp105@gmail.com
-- 📱 Phone: +91 9054853880
 
 
 ### 🚀 Languages and Tools:
