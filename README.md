@@ -1,6 +1,6 @@
 # Hi there, I'm Henil! 👋
 
-I'm Pre-final year student currently pursuing my B.Tech in Computer Science and Engineering at [Institute of Technology, Nirma University, Ahmedabad](https://www.nirmauni.ac.in).
+I'm Final year student currently pursuing my B.Tech in Computer Science and Engineering at [Institute of Technology, Nirma University, Ahmedabad](https://www.nirmauni.ac.in).
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=henilp105&theme=radical)
 
