@@ -1,6 +1,6 @@
 # Hi there, I'm Henil Panchal ! 👋
 
-I'm final year student currently pursuing my B.Tech in Computer Science and Engineering at [Institute of Technology, Nirma University, Ahmedabad](https://www.nirmauni.ac.in).
+I'm a UG Researcher Intern at Kang Lab, University of Illinois Urbana-Champaign working on LLM Security and a final year student currently pursuing my B.Tech in Computer Science and Engineering at [Institute of Technology, Nirma University, Ahmedabad](https://www.nirmauni.ac.in).
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henilp105&label=Profile%20views&color=0e75b6&style=flat" alt="henilp105" /> </p>
 
