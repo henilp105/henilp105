@@ -1,6 +1,6 @@
 # Hi there, I'm Henil Panchal ! 👋
 
-I am a Research Intern at TCS Research under Dr. Mudra Kapoor. I have also worked as an Undergraduate Research Intern at Kang Lab, University of Illinois Urbana-Champaign, focusing on LLM Security. Currently, I am in my final year of pursuing a B.Tech in Computer Science and Engineering at [Institute of Technology, Nirma University, Ahmedabad](https://www.nirmauni.ac.in).
+I am a B.Tech in Computer Science and Engineering Grad from [Nirma University](https://www.nirmauni.ac.in). I have worked as an Research Intern at TCS Research, Research Intern at Kang Lab, University of Illinois Urbana-Champaign, focusing on LLM Security. 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henilp105&label=Profile%20views&color=0e75b6&style=flat" alt="henilp105" /> </p>
